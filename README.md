@@ -1,4 +1,4 @@
-###Car Sales Dashboard using Power BI###
+***Car Sales Dashboard using Power BI***
 
 **Overview**
 Explore and analyze car sales data with this Power BI dashboard project! This repository contains the resources and files necessary for creating an interactive and visually engaging dashboard to gain insights into car sales trends, performance, and key metrics.
